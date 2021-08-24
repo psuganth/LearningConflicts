@@ -1,5 +1,4 @@
 this is the first line
-<<<<<<< HEAD
 Second line updated
 third line updated
 fourth line updated
@@ -7,3 +6,4 @@ suganth fifth line
 suganth 6th line
 suganth seventh line
 Second line
+Poda lusu

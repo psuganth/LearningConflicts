@@ -1,5 +1,5 @@
 this is the first line
-<<<<<<< HEAD
+Head suganth
 Second line updated
 third line updated
 fourth line updated
@@ -7,3 +7,4 @@ suganth fifth line
 suganth 6th line
 suganth seventh line
 Second line
+eigth line
